@@ -1,5 +1,0 @@
-Bella,Dog,3
-Milo,Cat,2
-Charlie,Rabbit,1
-Max,Dog,4
-Luna,Cat,3
